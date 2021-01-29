@@ -16,7 +16,8 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-	"Cuautla": "23°C"
+	"Cuautla": "23°C",
+	"Cuernavaca": "24°C"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
