@@ -17,7 +17,8 @@ output application/json
 ---
 {
 	"Cuautla": "23°C",
-	"Cuernavaca": "24°C"
+	"Cuernavaca": "24°C",
+	"Amayuca": "21°C"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
