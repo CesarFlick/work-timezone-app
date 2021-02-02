@@ -39,7 +39,7 @@
 						<workers>1</workers>
 						<workerType>Micro</workerType>
 						<applicationName>morelostimezone-service</applicationName>
-						<muleVersion>7.7.0</muleVersion>
+						<muleVersion>4.3.0</muleVersion>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
