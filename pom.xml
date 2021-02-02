@@ -35,7 +35,7 @@
 					<cloudHubDeployment>
 						<username>CesarFlicker</username>
 						<password>Sometimes123.!</password>
-						<enviroment>Sandbox</enviroment>
+						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
 						<applicationName>morelostimezone-service</applicationName>
