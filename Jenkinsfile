@@ -14,7 +14,7 @@ pipeline
 		}
 		stage('Perform Regression Testing'){
 		steps{
-		newman run C:\\Users\\Camerina\\Documents\\newman\\MorelosTimeZone.postman_collection.json --disable-unicode
+		newman run C:/Users/Camerina/Documents/newman/MorelosTimeZone.postman_collection.json --disable-unicode
 		}
 		}
 	}
